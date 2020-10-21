@@ -1,0 +1,2 @@
+*NOTE *
+Copy the files "Hotel_Booking.cpp" and "Roomtype.dat" in BIN folder
